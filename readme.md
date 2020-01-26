@@ -1,0 +1,6 @@
+- This project is developed with Java/Appium.
+- Test cases are executed with Real Device.
+- I choose that solution for our test cases will be faster and and stable.
+- I created an APK file with Android Studio.
+- I created Maven project with IntelliJ Idea.
+- I choose Java programming language and I followed all POM standards.
